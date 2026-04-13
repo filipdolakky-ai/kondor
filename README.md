@@ -1,0 +1,2 @@
+# kondor
+zad dom
